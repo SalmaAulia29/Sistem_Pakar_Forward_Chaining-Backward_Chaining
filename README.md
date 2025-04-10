@@ -1,5 +1,6 @@
 # Sistem Pakar Forward Chaining & Backward Chaining
 2306143_SALMA AULIA NISA
+
 Sistem ini merupakan implementasi sederhana dari sistem pakar berbasis aturan (rule-based expert system) untuk mendiagnosa beberapa penyakit umum berdasarkan gejala yang dialami oleh pengguna. Sistem menggunakan pendekatan **Forward Chaining** dan **Backward Chaining** dengan bantuan pustaka [experta](https://github.com/noxdafox/experta) (turunan dari CLIPS untuk Python).
 
 ## Fitur
