@@ -1,0 +1,2 @@
+# Sistem_Pakar_Forward_Chaining-Backward_Chaining
+2306143_SALMA AULIA NISA
