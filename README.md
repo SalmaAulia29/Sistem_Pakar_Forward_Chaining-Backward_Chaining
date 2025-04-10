@@ -45,4 +45,3 @@ Metode inferensi mundur (backward chaining) bekerja dengan:
 Sistem pakar ini dibuat untuk tujuan pembelajaran dan tidak dimaksudkan untuk menggantikan diagnosis medis profesional. Selalu konsultasikan dengan dokter atau tenaga medis profesional untuk masalah kesehatan Anda.
 
 2306143 Salma Aulia Nisa
-© 2025 | Dibuat oleh [Salma Aulia](https://github.com/SalmaAulia29)
